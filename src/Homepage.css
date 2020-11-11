@@ -1,0 +1,32 @@
+.homepage {
+  flex: 0.7;
+  flex-grow: 1;
+  overflow-y: scroll;
+  --slack-color: #3f0f40;
+}
+.homepage h1 {
+  margin: 15px;
+  text-align: center;
+}
+.border {
+  border-bottom: 1px solid lightgray;
+}
+.homepage a {
+  text-decoration: none;
+}
+
+.homepage ul {
+  font-size: 35px;
+  list-style: none;
+  color: var(--slack-color);
+}
+
+li::before {
+  content: "• ";
+  color: var(--slack-color);
+}
+
+.homepage li {
+  margin-left: 15px;
+  padding: 12px;
+}
