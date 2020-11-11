@@ -2,7 +2,9 @@
 
 Created a Slack Clone Web Messaging Application with Google User Authentication using REACTJS [Functional Components & React Hooks], MATERIAL UI, REACT CONTEXT API, REACT ROUTER, FIREBASE REAL-TIME DATABASE, AND FIREBASE HOSTING.
 
-Applied Firebase + React Context API for Google User Authentication to render User Name, User Profile Image, Messages, Icons, Channels (add channel feature) dynamically. React Functional Components and React Hooks such as UseParams, UseHistory, useStateValue, useState, useEffect allowed for Loose Coupling, Re-usability, Efficient Readability, and Code Optimization for Fast Rendering. Material-UI was utilized for every icon. CSS3 + Flexbox were used for responsive design, styling Material-UI icons, sidebar hover effects, smooth vertical scrolling, accurate Slack sizing & colors with CSS variables, messaging & chatbox, and overall elegant UI/UX Design.
+Applied Firebase + React Context API for Google User Authentication to render User Name, User Profile Image, Messages, Icons, Channels (add channel feature) dynamically. 
+
+React Functional Components and React Hooks such as UseParams, UseHistory, useStateValue, useState, useEffect allowed for Loose Coupling, Re-usability, Efficient Readability, and Code Optimization for Fast Rendering. Material-UI was utilized for every icon. CSS3 + Flexbox were used for responsive design, styling Material-UI icons, sidebar hover effects, smooth vertical scrolling, accurate Slack sizing & colors with CSS variables, messaging & chatbox, and overall elegant UI/UX Design.
 
 Demo of Application: https://bobbyatwal-slack-clone.web.app/
 
